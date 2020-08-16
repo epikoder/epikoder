@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I love to code, as that the only thing that keeps me happy, I'm young 😃 and needs a lot of guidance.
+I love to code, as that the only thing that keeps me happy, I'm interested in collaboration to learn new things and contribute.
 I'm currently learning flutter for a project. I have some knowledge on web and mobile.
 
-If you interested in pointing this young lad or need my assistance kindly reach out 😃
-You sure you don't want to pass down some knowledge 😃.
+If you interested in involving this young lad or need my assistance kindly reach out 😃
