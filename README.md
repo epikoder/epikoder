@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I love to code, as that the only thing that keeps me happy, I'm interested in collaboration to learn new things and contribute.
-I'm currently learning flutter for a project. I have some knowledge on web and mobile.
-
-If you interested in involving this young lad or need my assistance kindly reach out 😃
+I'm a computer science student, love linux, #btwiuarch, growing fast and understand modern technology.
+See me on [twitter](https://twitter.com/de_bell_)
