@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a computer science student, love linux, #btwiuarch, growing fast and understand modern technology.
-See me on [twitter](https://twitter.com/de_bell_)
+
+Golang, Laravel developer, and flutter [twitter](https://twitter.com/de_bell_)
