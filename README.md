@@ -1,4 +1,4 @@
-### Hello, Welcome onboard
+### Hello
 
 <!--
 **eribell/eribell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Golang, Laravel developer, and flutter [twitter](https://twitter.com/de_bell_)
+Go <- Rust
